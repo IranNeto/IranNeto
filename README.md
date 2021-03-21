@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**IranNeto/IranNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Iran. I'm a Java Software Engineer remotly working in Natal, Brazil.
+I'm passionate about coding and interested in Microservices and other stuff related to it
 
-Here are some ideas to get you started:
+🎓 I'm graduated in Computer Engineer at UFRN
+👷 Currently, remotly working in Avenue Code SP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently studying to get an Oracle Certified Program Certification with Java 11.
+
+🌱 I’m currently learning Microservices infrastructure like: Queue, docker, security, TDD, BDD, logging, etc.
+
+📫 iranmacedo.bneto@gmail.com
+
+https://www.linkedin.com/in/iran-macedo-bezerra-neto/
