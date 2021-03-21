@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Iran. I'm a Java Software Engineer remotly working in Natal, Brazil.
+My name is Iran Macedo. I'm a Java Software Engineer remotly working in Natal, Brazil.
 I'm passionate about coding and interested in Microservices and other stuff related to it
 
 🎓 I'm graduated in Computer Engineer at UFRN
