@@ -13,3 +13,9 @@ I'm passionate about coding and interested in Microservices and other stuff rela
 📫 iranmacedo.bneto@gmail.com
 
 https://www.linkedin.com/in/iran-macedo-bezerra-neto/
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iranneto&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=iranneto&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=iranneto&hide_border=true)
