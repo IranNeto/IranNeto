@@ -6,7 +6,13 @@ I'm passionate about coding and interested in Microservices and other stuff rela
 🎓 I'm graduated in Computer Engineer at UFRN
 👷 Currently, remotly working in Avenue Code SP.
 
-🔭 I'm currently studying to get an Oracle Certified Program Certification with Java 11.
+I try to have 3 fronts of studies: 
+
+🔭 (1) I'm currently studying to get an Oracle Certified Program Certification with Java 11. [Notes](https://github.com/IranNeto/study-notes/tree/main/Java/OCP_11)
+
+🔭 (2) I'm currently studying SOLID principles. [Notes](https://github.com/IranNeto/study-notes/tree/main/SOLID)
+
+🔭 (3) I'm currently studying and developing a Java 11 API Boilerplate. [Check out](https://github.com/IranNeto/JavaAPIBoilerplate)
 
 🌱 I’m currently learning Microservices infrastructure like: Queue, docker, security, TDD, BDD, logging, etc.
 
